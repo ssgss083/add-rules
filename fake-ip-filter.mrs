@@ -1,14 +1,16 @@
-*.lan                            # 常见局域网域名后缀
-+.playstation.com              # PlayStation 游戏主机
-+.playstation.net              # PlayStation 网络服务
-np.*                              # PlayStation 网络服务
-+.easebar.com                  # Easebar（游戏加速器）域名
-+.netease.com                  # 网易域名
-+.qq.com                       # 腾讯域名
-+.wechat.com                   # 微信域名
-+.weixin.qq.com                # 微信域名
-+.taobao.com                   # 淘宝域名
-+.jd.com                       # 京东域名
-wns.windows.com                # Windows 通知服务
-+.stun.*                       # STUN 服务（P2P 和游戏常用）
+
++.playstation.com          
++.playstation.net          
+np.*                             
++.easebar.com                 
++.netease.com             
++.qq.com                   
++.wechat.com               
++.weixin.qq.com            
++.taobao.com               
++.jd.com                     
+wns.windows.com              
++.stun.*                       
+login.pbex.*
+soulframegame.com
                 
